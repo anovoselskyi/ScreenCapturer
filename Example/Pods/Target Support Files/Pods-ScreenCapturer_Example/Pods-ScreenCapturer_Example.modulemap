@@ -1,0 +1,6 @@
+framework module Pods_ScreenCapturer_Example {
+  umbrella header "Pods-ScreenCapturer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+  - ScreenCapturer (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+  - ScreenCapturer (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  ScreenCapturer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  ScreenCapturer: 936eae2d061b0f01b6a05369d1665fb6b79c8457
+
+PODFILE CHECKSUM: a93f2156306ba5f36820ed381f95fc2a86620970
+
+COCOAPODS: 1.9.2
