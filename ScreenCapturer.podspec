@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ScreenCapturer'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ScreenCapturer.'
+  s.summary          = 'A ScreenCapturer based on ReplayKit.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -29,6 +29,8 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
+
+  s.swift_versions = '5.1'
 
   s.source_files = 'ScreenCapturer/Classes/**/*'
   
