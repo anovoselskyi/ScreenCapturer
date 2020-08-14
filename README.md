@@ -1,15 +1,21 @@
 # ScreenCapturer
 
-[![CI Status](https://img.shields.io/travis/anovoselskyi/ScreenCapturer.svg?style=flat)](https://travis-ci.org/anovoselskyi/ScreenCapturer)
-[![Version](https://img.shields.io/cocoapods/v/ScreenCapturer.svg?style=flat)](https://cocoapods.org/pods/ScreenCapturer)
-[![License](https://img.shields.io/cocoapods/l/ScreenCapturer.svg?style=flat)](https://cocoapods.org/pods/ScreenCapturer)
-[![Platform](https://img.shields.io/cocoapods/p/ScreenCapturer.svg?style=flat)](https://cocoapods.org/pods/ScreenCapturer)
+[![Version](https://img.shields.io/cocoapods/v/InstagramAPI.svg?style=flat)](https://cocoapods.org/pods/InstagramAPI)
+[![License](https://img.shields.io/cocoapods/l/InstagramAPI.svg?style=flat)](https://github.com/anovoselskyi/InstagramAPI/blob/master/LICENSE)
+[![Platform](https://img.shields.io/cocoapods/p/InstagramAPI.svg?style=flat)](https://cocoapods.org/pods/InstagramAPI)
+[![Swift: 5.2](https://img.shields.io/badge/swift-5.2-orange.svg?style=flat)](https://github.com/anovoselskyi/InstagramAPI)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+`ScreenCapturer` is a iOS wrapper written on Swift over Apple ReplayKit that enable to record screen video and audio from speaker or microphone into a file
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+* iOS 11+
+* Xcode 11+
 
 ## Installation
 
@@ -18,6 +24,13 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'ScreenCapturer'
+```
+
+**InstagramAPI** is also available through [Carthage](https://github.com/Carthage/Carthage).
+To install just write into your Cartfile:
+
+```ruby
+github "anovoselskyi/ScreenCapturer"
 ```
 
 ## Author
