@@ -1,8 +1,8 @@
 # ScreenCapturer
 
-[![Version](https://img.shields.io/cocoapods/v/InstagramAPI.svg?style=flat)](https://cocoapods.org/pods/ScreenCapturer)
-[![License](https://img.shields.io/cocoapods/l/InstagramAPI.svg?style=flat)](https://github.com/anovoselskyi/ScreenCapturer/blob/master/LICENSE)
-[![Platform](https://img.shields.io/cocoapods/p/InstagramAPI.svg?style=flat)](https://cocoapods.org/pods/ScreenCapturer)
+[![Version](https://img.shields.io/cocoapods/v/ScreenCapturer.svg?style=flat)](https://cocoapods.org/pods/ScreenCapturer)
+[![License](https://img.shields.io/cocoapods/l/ScreenCapturer.svg?style=flat)](https://github.com/anovoselskyi/ScreenCapturer/blob/master/LICENSE)
+[![Platform](https://img.shields.io/cocoapods/p/ScreenCapturer.svg?style=flat)](https://cocoapods.org/pods/ScreenCapturer)
 [![Swift: 5.2](https://img.shields.io/badge/swift-5.2-orange.svg?style=flat)](https://github.com/anovoselskyi/ScreenCapturer)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
